@@ -12,7 +12,7 @@
 
 
 
- ✨ **AtroxOudoor Page** ✨  was made by  `S8S` [<img src="https://img.icons8.com/ios/50/000000/8-circle.png"/>](https://twitter.com/Simple8Signific) 
+ ✨ **AtroxOudoor Page** ✨  was made by   [<img src="https://img.icons8.com/ios/50/000000/8-circle.png"/>](https://twitter.com/Simple8Signific) `S8S`.
 <!--
 **AtroxOudoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
