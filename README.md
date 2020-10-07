@@ -3,7 +3,7 @@
 **🌱te enseñamos a iniciante en actividades outdoor, a interpretar el ambiente del estado de Sonora,así como su geografía y las actividades de contacto con su naturaleza. Entre las actividades que ofrecemos están:Espeleísmo, hiking, trekking, rappel, escalada en roca y talleres de astronomía.**
 
 
-**Haz Click aqui para ver nuestra página** [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://atroxoutddor.github.io/)**
+**Haz Click aqui para ver nuestra página** [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://atroxoudoor.github.io/atroxoudoor/)**
 
 
 **💬 Encuentanos en nuestras redes sociales**
